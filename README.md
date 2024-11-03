@@ -1,6 +1,7 @@
-## Leetcode Solutions
-This repository contains my solutions to the Leetcode problems.
+## Ben's Leetcode Solutions
+This repository contains my solutions to Leetcode problems I have completed.
 
-### Completed So Far
-- [x] Min Stack [[Java]](https://leetcode.com/problems/min-stack/)
-- [x] Intersection of Two Arrays [[Java]](https://leetcode.com/problems/intersection-of-two-arrays/)
+### Blind 75
+
+#### Array
+[x] Two Sum [[Python](https://leetcode.com/problems/two-sum)]
